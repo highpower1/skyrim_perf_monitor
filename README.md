@@ -4,7 +4,7 @@ A lightweight, asynchronous performance monitoring SKSE plugin for Skyrim Specia
 
 The plugin hooks into Skyrim's main loop using CommonLibSSE to collect frame times, engine deltas, active actor counts, and process memory usage (Working Set Size). Collected metrics are buffered in-memory and flushed to a CSV file on a background thread to prevent disk I/O operations from impacting frame delivery.
 
-This plugin is designed to benchmark and analyze performance differences under various game states, such as comparing physics engines (e.g., FSMP vs JSMP), measuring the cost of high NPC density, or tracking memory leaks.
+This plugin is designed to benchmark and analyze performance differences under various game states, measuring the cost of high NPC density, or tracking memory leaks.
 
 ---
 
