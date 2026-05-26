@@ -1,0 +1,32 @@
+# CMake build directories
+/build/
+/out/
+/dist/
+/Mod_Package/
+/peformer/
+
+# vcpkg
+/vcpkg_installed/
+
+# MSBuild and Visual Studio
+.vs/
+*.user
+*.suo
+*.userossc
+*.sln.docstates
+
+# Compiled libraries and outputs
+*.dll
+*.lib
+*.pdb
+*.exp
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*_boot.log
+*.log
+*.csv

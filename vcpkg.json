@@ -1,0 +1,12 @@
+{
+  "name": "skyrimperfmonitor",
+  "version": "1.0.0",
+  "builtin-baseline": "8528134bac3d39db8d36f4097755a97a1394e4dc",
+  "dependencies": [
+    "fmt",
+    "spdlog",
+    "xbyak",
+    "directxtk",
+    "rapidcsv"
+  ]
+}
