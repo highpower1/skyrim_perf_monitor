@@ -6,7 +6,7 @@ The plugin hooks into Skyrim's main loop using CommonLibSSE to collect frame tim
 
 This plugin is designed to benchmark and analyze performance differences under various game states, measuring the cost of high NPC density, or tracking memory leaks.
 
-It was originally designed for benchmarking Jolt HDT-SMP.
+It was originally designed for benchmarking Jolt HDT-SMP(https://github.com/highpower1/hdtSMP64).
 
 ---
 
