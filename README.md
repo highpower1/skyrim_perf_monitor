@@ -88,7 +88,6 @@ All dependencies are resolved via vcpkg in manifest mode:
 
 ---
 
-## Credits & Author
+## Credits
 
-- Author: highpower1
 - Built using CommonLibSSE and SKSE.
